@@ -11,7 +11,7 @@ This project simulates a real-world B2B marketing funnel environment where Marke
 - Understand conversion behavior
 - Evaluate Sales Development Representative (SDR) performance
 - Identify high-value business segments
-- Predict conversion probability using Logistic Regression
+- Predict conversion probability using Logistic Regression.
 
 The dataset contains lead-level information including business profile, revenue declaration, stock size, and behavioral attributes.
 
